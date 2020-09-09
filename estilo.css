@@ -1,0 +1,70 @@
+html , body {
+    margin : 0px
+}
+#imagemdefundo{
+    height:100% ;
+    background : url("Agricultura-Rural.jpg") ;
+    text-align: center;
+    background-size: cover;
+}
+#titulo {
+    color: white;
+    padding-top: 20%;
+    font-size: 55px;
+}
+#Subtitulo{
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
+}
+#acao{
+    color: white;
+    border:1px white solid;
+    padding: 10px 20px 10px 20px;
+}
+.icone{
+    width: 51px;
+}
+#EXPLICAÇÃO {
+    background-color: white;
+    padding: 20px;
+}
+#selecao {
+    padding:10px;
+    margin: 50px;
+    float: left;
+    position: relative;
+    background-color: rgb(226, 226, 226)
+    
+}
+#ecopontos{
+    background-color:white;
+    padding: 20px;
+    
+}
+.ecopontos {
+    width: 30%;
+}
+#sobre { 
+    background-color: rgb(133, 247, 110);
+    padding: 10px;
+}
+.coluna{
+    float:left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.justificado{
+    text-align: justify;
+}
+.centralizado{
+    text-align: center;
+}
+.coluna4{
+    float:left;
+    padding: 0 5%;
+    position: relative;
+    width: 15%;
+}
